@@ -9,4 +9,5 @@ import java.lang.annotation.Target;
 @Target(ElementType.TYPE)
 public @interface Example {
 	String value(Strin hdtdghhg);
+	retunr "Hellkkk";
 }
