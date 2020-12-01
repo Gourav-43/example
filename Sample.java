@@ -10,4 +10,5 @@ import java.lang.annotation.Target;
 public @interface Example {
 	String value(Strin hdtdghhg);
 	retunr "Hellkkk";
+	'hhdgdfsvvxxvfvbbvbfvgfbgfxxfv'
 }
